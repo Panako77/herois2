@@ -4,6 +4,6 @@
 * Batman
 * Daredevil
 * Aquaman
-* Jessica Jones es de DC
+* Jessica Jones es de Marvel
 * Panako
 * Spiderman
