@@ -4,6 +4,5 @@
 * Batman
 * Daredevil
 * Aquaman
-* Mujer Maravilla
 * Jessica Jones
 * Panako
